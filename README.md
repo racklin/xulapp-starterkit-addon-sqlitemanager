@@ -14,5 +14,5 @@ This Project is based on SQLiteManager For Firefox , Original Add-on: [SQLiteMan
 
 License
 -----------------------------
-SQLiteManager For XULapp StarterKit are licensed under the [MIT License](http://opensource.org/licenses/MIT).
+SQLiteManager For XULapp StarterKit are licensed under the [MPL License].
 See LICENSE for more details.
