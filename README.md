@@ -4,7 +4,7 @@ SQLite Manager 0.7.7 for XULApp StarterKit.
 
 
 -----------------------------
-Download pre-build XPI in [downloads](https://github.com/racklin/xulapp-starterkit-addon-sqlitemanager/tree/master/downloads)
+Download pre-build XPI in [download XPI](https://github.com/racklin/xulapp-starterkit-addon-sqlitemanager/raw/master/downloads/xulapp-starterkit-addon-sqlitemanager-0.7.7.xpi)
 
 
 Credits
